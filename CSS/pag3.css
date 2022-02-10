@@ -1,0 +1,40 @@
+body{
+	margin: 0px auto;
+}
+
+.menu {
+	background-color: #d6b5d4;
+	max-height: 70px;
+	text-align: center;
+}
+
+a{
+	font-family: 'Poppins', sans-serif;
+	font-weight: 400;
+	font-size: 35px;
+	word-spacing: 20px;
+	color: #ffffff;
+	word-spacing: 50px;
+	text-decoration: none;
+}
+
+.turne{
+	background-color: #f3ccbd;
+	margin: 0px auto;
+	padding-bottom: 40px;
+	text-align: center;
+}
+
+h1{
+	font-family:'Poppins', sans-serif;
+	font-weight: 700;
+	font-size: 55px;
+	padding-top: 35px;
+	text-align: center;
+}
+
+img{
+	padding-top: 25px;
+}
+
+

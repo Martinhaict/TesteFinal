@@ -1,3 +1,7 @@
+body{
+	margin: 0px auto;
+}
+
 .menu {
 	background-color: #d6b5d4;
 	max-height: 70px;
@@ -10,5 +14,36 @@ a{
 	font-size: 35px;
 	word-spacing: 20px;
 	color: #ffffff;
-
+	word-spacing: 50px;
+	text-decoration: none;
 }
+
+.todos{
+	background-color: #c9bcda;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	margin: 0px auto;
+	text-align: center;
+}
+
+.individual{
+	background-color: #eebcbb;
+	padding-top: 80px;
+	padding-bottom: 0px;
+	font-family: 'Nothing You Could Do', cursive;
+	font-weight: 400;
+	font-size: 50PX;
+}
+
+ul li{
+	display: inline-block;
+	padding-right:35px;
+	padding-left: 35px;
+}
+
+
+
+
+
+
+
