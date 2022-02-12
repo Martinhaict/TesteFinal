@@ -6,6 +6,8 @@ body{
 	background-color: #d6b5d4;
 	max-height: 70px;
 	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 
 a{
@@ -21,7 +23,7 @@ a{
 .turne{
 	background-color: #f3ccbd;
 	margin: 0px auto;
-	padding-bottom: 40px;
+	padding-top: 1px;
 	text-align: center;
 }
 
@@ -35,6 +37,7 @@ h1{
 
 img{
 	padding-top: 25px;
+	padding-bottom: 20px;
 }
 
 
